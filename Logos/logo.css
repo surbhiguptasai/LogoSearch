@@ -1,0 +1,6 @@
+.container-fluid{
+	box-sizing: border-box;
+	text-align: center;
+	display:inline-block;
+	margin:auto;
+}
